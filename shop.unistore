@@ -19,7 +19,7 @@
       "Super Mario 64.nds": [
         {
           "type": "downloadFile",
-          "file": "https://githubusercontent.com.../Freddyfaz10020/Ds-games-to-get-on-3ds/main/Super%20Mario%2064%20DS%20(USA%2C%20Australia)%20(Rev%201).nds",
+          "file": "https://githubusercontent.com/Freddyfaz10020/Ds-games-to-get-on-3ds/main/Super%20Mario%2064%20DS%20(USA%2C%20Australia)%20(Rev%201).nds",
           "output": "sdmc:/roms/nds/super mario 64.nds"
         }
       ]
