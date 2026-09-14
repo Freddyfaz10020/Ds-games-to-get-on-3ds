@@ -1,0 +1,25 @@
+{
+  "storeInfo": {
+    "title": "My Custom DS Shop",
+    "author": "freddyfaz10020",
+    "description": "A collection of custom Nintendo DS games.",
+    "version": 1
+  },
+  "storeContent": [
+    {
+      "title": "Super mario 64",
+      "author": "Nintendo",
+      "description": "an enhanced 3D platformer remake of the classic 1996 Nintendo 64 game, released in 2004 as a launch title for the Nintendo DS.",
+      "category": ["games"],
+      "version": "1.0.0",
+      "script": [
+        {
+          "type": "downloadFile",
+          "file": "https://githubusercontent.com",
+          "output": "sdmc:/roms/nds/super mario 64.nds"
+        }
+      ]
+    }
+  ]
+}
+
